@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi there, I'm [Anna] ![](https://github.com/AKlebedeff/AKlebedeff/edit/main/README.md) 
+### Computer science student, IT news writer from Russia 🇷🇺
 
 <!--
 **AKlebedeff/AKlebedeff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
