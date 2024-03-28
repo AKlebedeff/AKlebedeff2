@@ -1,4 +1,4 @@
-# Hi there, I'm [Anna] (https://github.com/AKlebedeff/AKlebedeff/edit/main/README.md) 
+# Hi there, I'm [Anna]
 ### Computer science student, IT news writer from Russia 🇷🇺
 
 <!--
