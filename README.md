@@ -1,4 +1,4 @@
-# Hi there, I'm [Anna]
+# Hi there, I'm Anna
 ### Computer science student, IT news writer from Russia 🇷🇺
 
 <!--
