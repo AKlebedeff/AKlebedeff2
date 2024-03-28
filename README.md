@@ -1,6 +1,6 @@
 # Hi there, I'm Anna
 ### Computer science student, IT news writer from Russia 🇷🇺
-
+[![trophy](https://github-profile-trophy.vercel.app/?AKlebedeff=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **AKlebedeff/AKlebedeff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
